@@ -2,7 +2,7 @@
 // Using switch case
 #include <stdio.h>
 #include <stdlib.h>
-
+//Inserted Comment here
 int main()
 {
 	char ch;
