@@ -31,6 +31,11 @@ int main()
 			printf("%.1lf * %.1lf = %.1lf\n", a, b, a * b);
 			break;
 			// If operator doesn't match any case constant
+		// For Division
+       		 case '/':
+            	printf("%.1lf / %.1lf = %.1lf\n", a, b, a / b);
+            break;
+		
 		default:
 			printf("Error! please write a valid operator\n");
 		}
